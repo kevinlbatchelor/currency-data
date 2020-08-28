@@ -1,0 +1,19 @@
+{
+  "name": "currency-data",
+  "version": "1.0.0",
+  "description": "List of international currencies with currency code, ISO code, symbol, region and number of decimals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinlbatchelor/currency-data.git"
+  },
+  "author": "Kevin Batchelor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinlbatchelor/currency-data/issues"
+  },
+  "homepage": "https://github.com/kevinlbatchelor/currency-data#readme"
+}
