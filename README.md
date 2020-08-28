@@ -1,7 +1,7 @@
 # currency-data
-List of International Currencies their symbol, ISO code, region, and how many decimal places are supported
+List of most international currencies their symbol, ISO code, region, and how many decimal places are supported
 ```
-{
+export const currency = {
 usd: {
         id: '840',
         region: 'United States',
